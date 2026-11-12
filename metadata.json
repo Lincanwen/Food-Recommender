@@ -1,0 +1,6 @@
+{
+  "name": "CraveGems - Curated Food Discovery & Hidden Gems",
+  "description": "A food recommendation platform connecting diners to neighborhood hidden gems, exclusive offers, loyalty rewards, and mealtime suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
